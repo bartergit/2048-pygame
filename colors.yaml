@@ -1,0 +1,56 @@
+2:
+  Red: 249
+  Green: 230
+  Blue: 222
+4:
+  Red: 250
+  Green: 228
+  Blue: 207
+8:
+  Red: 252
+  Green: 177
+  Blue: 124
+16:
+  Red: 243
+  Green: 220
+  Blue: 120
+32:
+  Red: 249
+  Green: 200
+  Blue: 100
+64:
+  Red: 253
+  Green: 92
+  Blue: 67
+128:
+  Red: 244
+  Green: 102
+  Blue: 116
+256:
+  Red: 241
+  Green: 75
+  Blue: 97
+512:
+  Red: 237
+  Green: 64
+  Blue: 64
+1024:
+  Red: 116
+  Green: 181
+  Blue: 221
+2048:
+  Red: 94
+  Green: 161
+  Blue: 229
+4096:
+  Red: 2
+  Green: 125
+  Blue: 192
+background:
+  Red: 205
+  Green: 193
+  Blue: 179
+dark-bg:
+  Red: 188
+  Green: 173
+  Blue: 159
